@@ -1,0 +1,28 @@
+.container{
+width: 80%;
+border: 1px dotted red;
+height: 200px;
+
+
+
+
+
+
+}
+
+
+
+
+.container1{
+border: solid green;
+padding: 20px;
+margin: 5%;
+
+}
+
+p{
+font-style: oblique ; 
+font-weight: bold;
+
+}
+
